@@ -1,0 +1,8 @@
+.products .product-solo {
+  width: 100%;
+}
+
+.products .product-solo img {
+  width: 400px;
+  height: 400px;
+}
